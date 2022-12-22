@@ -1,0 +1,19 @@
+{
+  "name": "class24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireDgun/class24.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FireDgun/class24/issues"
+  },
+  "homepage": "https://github.com/FireDgun/class24#readme"
+}
